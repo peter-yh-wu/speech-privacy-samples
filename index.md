@@ -43,3 +43,43 @@ p244_187 "It is difficult to say."
 | **ground_truth** | **adversarial** | **disentanglement** | **signal_processing** |  
 | --- | --- | --- | --- |  
 | <audio controls=""> <source src="ref/format.5/data_wav/p244_187.flac"> </audio> | <audio controls=""> <source src="adversarial/format.5/data_wav/p244_187.flac"> </audio> | <audio controls=""> <source src="disentanglement/format.5/data_wav/p244_187.flac"> </audio> | <audio controls=""> <source src="signal_processing/format.5/data_wav/p244_187.flac"> </audio> |  
+
+### Sample6
+
+p254_025 "Johnson was pretty low."
+
+| **ground_truth** | **adversarial** | **disentanglement** | **signal_processing** |  
+| --- | --- | --- | --- |  
+| <audio controls=""> <source src="ref/p254_025.flac"> </audio> | <audio controls=""> <source src="adversarial/p254_025.flac"> </audio> | <audio controls=""> <source src="disentanglement/p254_025.flac"> </audio> | <audio controls=""> <source src="signal_processing/p254_025.flac"> </audio> |  
+
+### Sample7
+
+p254_288 "He will address the nation this evening."
+
+| **ground_truth** | **adversarial** | **disentanglement** | **signal_processing** |  
+| --- | --- | --- | --- |  
+| <audio controls=""> <source src="ref/p254_288.flac"> </audio> | <audio controls=""> <source src="adversarial/p254_288.flac"> </audio> | <audio controls=""> <source src="disentanglement/p254_288.flac"> </audio> | <audio controls=""> <source src="signal_processing/p254_288.flac"> </audio> |  
+
+### Sample8
+
+p259_146 "What do we want to do that for ?)"
+
+| **ground_truth** | **adversarial** | **disentanglement** | **signal_processing** |  
+| --- | --- | --- | --- |  
+| <audio controls=""> <source src="ref/p259_146.flac"> </audio> | <audio controls=""> <source src="adversarial/p259_146.flac"> </audio> | <audio controls=""> <source src="disentanglement/p259_146.flac"> </audio> | <audio controls=""> <source src="signal_processing/p259_146.flac"> </audio> |  
+
+### Sample9
+
+p259_405 "In addition, it was in breach of natural justice.)"
+
+| **ground_truth** | **adversarial** | **disentanglement** | **signal_processing** |  
+| --- | --- | --- | --- |  
+| <audio controls=""> <source src="ref/p259_405.flac"> </audio> | <audio controls=""> <source src="adversarial/p259_405.flac"> </audio> | <audio controls=""> <source src="disentanglement/p259_405.flac"> </audio> | <audio controls=""> <source src="signal_processing/p259_405.flac"> </audio> |  
+
+### Sample10
+
+p260_183 "Our team is just so young."
+
+| **ground_truth** | **adversarial** | **disentanglement** | **signal_processing** |  
+| --- | --- | --- | --- |  
+| <audio controls=""> <source src="ref/p260_183.flac"> </audio> | <audio controls=""> <source src="adversarial/p260_183.flac"> </audio> | <audio controls=""> <source src="disentanglement/p260_183.flac"> </audio> | <audio controls=""> <source src="signal_processing/p260_183.flac"> </audio> |  
